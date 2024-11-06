@@ -1,0 +1,19 @@
+h2 {
+    display: inline;
+    margin: 50px;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+.Container {
+    text-align: center;
+    border-top: 2px Solid black;
+    border-bottom: 2px Solid black;
+}
+
+p {
+    text-align: center;
+}
